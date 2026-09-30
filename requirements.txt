@@ -1,0 +1,8 @@
+click
+astroid
+pytest
+aiohttp
+rich
+sqlite3
+astunparse
+asyncio
